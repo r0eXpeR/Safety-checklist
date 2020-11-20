@@ -1,4 +1,4 @@
-# 备忘清单
+# 安全备忘清单
 
 ### 🌴DNSLog
 
@@ -68,5 +68,6 @@
 * 天眼查：https://www.tianyancha.com/
 * 安全圈INFO：https://www.anquanquan.info/#tools
 * 黑客工具清单：https://github.com/trimstray/the-book-of-secret-knowledge
+* 提权辅助：https://bugs.hacking8.com/tiquan/
 
 Thinks:@trimstray @shihuang
