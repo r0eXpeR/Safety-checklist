@@ -69,5 +69,6 @@
 * 安全圈INFO：https://www.anquanquan.info/#tools
 * 黑客工具清单：https://github.com/trimstray/the-book-of-secret-knowledge
 * 提权辅助：https://bugs.hacking8.com/tiquan/
+* Whois历史 http://www.7name.com/
 
 Thinks:@trimstray @shihuang
