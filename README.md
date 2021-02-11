@@ -29,7 +29,7 @@
 * http://xip.io/
 * https://nip.io/
 * http://ptrarchive.com/
-* https://www.whatsmydns.net/
+* https://www.nslookup.io/
 * http://ceipam.eu/en/dnslookup.php
 * https://spyse.com/tools/dns-lookup
 
